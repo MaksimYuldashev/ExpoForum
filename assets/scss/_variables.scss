@@ -1,0 +1,30 @@
+$media-sizes: (
+    "laptop": 1024px,
+    "tablet": 767px,
+    "smartphone": 576px,
+);
+
+// CONTAINER 
+$container: 1110px;
+
+// COLOR
+$main-blue: #2378FC;
+$main-green: #30BCC9;
+$main-IceCream: #FAF3E3;
+$main-red: #F6404F;
+$main-yellow: #FFC41E;
+$color-black: #2E373B;
+
+// FONT WEIGHT 
+$weight-regular: 400;
+$weight-medium: 500;
+$weight-bold: 700;
+
+// FONT SIZE 
+$size-14: 14px;
+$size-16: 16px;
+$size-21: 21px;
+
+// FONT FAMILY
+$font-primary: 'Circe';
+$font-secondary: 'Plumb';
